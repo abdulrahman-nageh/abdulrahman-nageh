@@ -24,19 +24,12 @@
 <a href="https://www.linkedin.com/in/abdulrahman-nageh-6ab026220/" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Nageh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech skills
-![C programming](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=CPP)&nbsp;
-![Python](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=PYTHON&logoColor=1572B6)&nbsp;
+![C programming](https://img.shields.io/badge/dynamic/-C_programming-05122A?style=flat&logo=C)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=CPP)&nbsp;
+![Python](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=PYTHON&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual studio](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanemNaga&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=hanemNaga&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=hanemNaga&style=for-the-badge">
-</a>
